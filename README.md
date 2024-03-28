@@ -1,0 +1,2 @@
+# RAP_EXT_ONPREM
+Consume API from S/4HANA OP
